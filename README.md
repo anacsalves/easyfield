@@ -1,5 +1,5 @@
 # easyfield 
-Connecting the field with the space
+Connecting the field with the space <img src="https://github.com/anacsalves/easyfield/blob/main/img/easyfieldLogo.png"/>
 ## Data Processing
 * Collect raw data from Space Agency resources (https://l0dup05.larc.nasa.gov/merlin/merlin#)<br>
 * Filter the data of location - latitude and longitude - and the main parameters to measure a specific disaster
