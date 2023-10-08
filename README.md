@@ -13,7 +13,7 @@ Connecting the field with the space
 * Send automatically and periodically
 
 ## Our team
-< p href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Ana  Clara</>
+< a href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Ana  Clara</a>
 <href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Jordan</>
 <href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Leonardo</>
 <href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Matheus Franco</>
