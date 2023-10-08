@@ -13,12 +13,10 @@ Connecting the field with the space
 * Send automatically and periodically
 
 ## Our team
-< a href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Ana  Clara</a>
-<href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Jordan</>
-<href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Leonardo</>
-<href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Matheus Franco</>
-<href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Sofia</>
-<href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/">Yuri</>
+< a href="https://www.linkedin.com/in/ana-clara-souza-alves-0a2a88210/"> Ana  Clara</a>
+<a href="https://www.linkedin.com/in/matheus-franco-7957b9243/">Matheus Franco</a>
+<a href="https://www.linkedin.com/in/sofia-cerqueira-35a2291ba/">Sofia</a>
+<a href="https://www.linkedin.com/in/yuri-xavier-25795b199/">Yuri</a>
 
 
 
