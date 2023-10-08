@@ -9,4 +9,4 @@ Connecting the field with the space
 ## Text Message
 *Generate the message with a Natural Language Model(NLM) 
 *Send automatically and periodically 
-<img src="https://static.wikia.nocookie.net/fa81090d-4767-417d-a703-293ec93a8c5e/scale-to-width/370" width="30%" />
+<img src="[[https://static.wikia.nocookie.net/fa81090d-4767-417d-a703-293ec93a8c5e/scale-to-width/370](https://github.com/anacsalves/easyfield/blob/main/img/easyfieldLogo.png)" width="30%] />
