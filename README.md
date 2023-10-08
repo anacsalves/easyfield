@@ -9,6 +9,6 @@ Filter the data of location - latitude and longitude - and the main parameters t
 *Subscription to get the parameters data <br>
 
 ## Text Message
-*Generate the message with a Natural Language Model(NLM) <br>
-*Send automatically and periodically 
+* Generate the message with a Natural Language Model(NLM) <br>
+* Send automatically and periodically 
 
