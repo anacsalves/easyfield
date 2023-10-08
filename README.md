@@ -10,4 +10,4 @@ Connecting the field with the space
 *Generate the message with a Natural Language Model(NLM) 
 *Send automatically and periodically 
 
-<img src="https://github.com/anacsalves/easyfield/blob/main/img/2023-10-08%20(5).png" width="30%" />
+<img src="https://github.com/anacsalves/easyfield/blob/main/img/2023-10-08%20(5).png"  />
