@@ -9,5 +9,4 @@ Connecting the field with the space
 ## Text Message
 *Generate the message with a Natural Language Model(NLM) 
 *Send automatically and periodically 
-![2021-07-31 (41)](https://user-images.githubusercontent.com/88052180/127782208-ea06fd88-25a5-4c55-9269-a7055041a095.png)
-
+<img src="https://static.wikia.nocookie.net/fa81090d-4767-417d-a703-293ec93a8c5e/scale-to-width/370" width="30%" />
